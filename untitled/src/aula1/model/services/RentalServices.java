@@ -1,7 +1,7 @@
-package model.services;
+package aula1.model.services;
 
-import model.entities.CarRental;
-import model.entities.Invoice;
+import aula1.model.entities.CarRental;
+import aula1.model.entities.Invoice;
 
 import java.time.Duration;
 

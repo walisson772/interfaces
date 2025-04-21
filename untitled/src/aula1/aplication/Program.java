@@ -1,9 +1,9 @@
-package aplication;
+package aula1.aplication;
 
-import model.entities.CarRental;
-import model.entities.Vehicle;
-import model.services.BrazilTaxServices;
-import model.services.RentalServices;
+import aula1.model.entities.CarRental;
+import aula1.model.entities.Vehicle;
+import aula1.model.services.BrazilTaxServices;
+import aula1.model.services.RentalServices;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

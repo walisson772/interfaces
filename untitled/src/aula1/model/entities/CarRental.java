@@ -1,8 +1,6 @@
-package model.entities;
+package aula1.model.entities;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.Locale;
 
 public class CarRental {
 

@@ -1,4 +1,4 @@
-package model.entities;
+package aula1.model.entities;
 
 public class Invoice {
 
